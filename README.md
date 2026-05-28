@@ -16,17 +16,17 @@ Using dynamic visualizations and KPI-driven analytics, the dashboard helps busin
 
 🛠️ Tech Stack
 
-Power BI Desktop       	Dashboard creation and reporting
+Power BI Desktop    -   	Dashboard creation and reporting
 
-Power Query     	Data cleaning and transformation
+Power Query   -  	Data cleaning and transformation
 
-DAX (Data Analysis Expressions)	     KPI calculations and dynamic measures
+DAX (Data Analysis Expressions)	   -  KPI calculations and dynamic measures
 
-Data Modeling     	Building relationships between tables
+Data Modeling     -	Building relationships between tables
 
-Interactive Visualizations      	Trend analysis and business insights
+Interactive Visualizations      -	Trend analysis and business insights
 
-Excel / CSV Dataset     	Source data for analysis
+Excel / CSV Dataset  -   	Source data for analysis
 
 
 ✨ Features & Highlights
