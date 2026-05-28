@@ -15,13 +15,19 @@ Return rate monitoring
 Using dynamic visualizations and KPI-driven analytics, the dashboard helps business users and decision-makers monitor operational performance, identify profitable products, track revenue targets, and uncover regional sales trends for better strategic planning.
 
 🛠️ Tech Stack
-Tool / Technology	Purpose
-Power BI Desktop	Dashboard creation and reporting
-Power Query	Data cleaning and transformation
-DAX (Data Analysis Expressions)	KPI calculations and dynamic measures
-Data Modeling	Building relationships between tables
-Interactive Visualizations	Trend analysis and business insights
-Excel / CSV Dataset	Source data for analysis
+
+Power BI Desktop       	Dashboard creation and reporting
+
+Power Query     	Data cleaning and transformation
+
+DAX (Data Analysis Expressions)	     KPI calculations and dynamic measures
+
+Data Modeling     	Building relationships between tables
+
+Interactive Visualizations      	Trend analysis and business insights
+
+Excel / CSV Dataset     	Source data for analysis
+
 
 ✨ Features & Highlights
 📊 Business Problem
