@@ -89,3 +89,7 @@ Provides insights into:
 Revenue fluctuations
 Business growth patterns
 Weekly performance tracking
+
+
+screenshot of the dashboard
+https://github.com/adityajoweol/maven-market-insights/blob/main/Screenshot%202026-05-28%20125027.png
